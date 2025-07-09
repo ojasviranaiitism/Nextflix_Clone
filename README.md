@@ -24,7 +24,10 @@ This is a **responsive Netflix Clone** built using **HTML** and **CSS**. It is a
 
 | Mobile View | Tablet View | Desktop View |
 |------------|-------------|--------------|
-| *(Insert Image)* | *(Insert Image)* | *(Insert Image)* |
+| ![Mobile View](./screenshots/mobile%20view.png) | ![Tablet View](./screenshots/tablet%20view.png) | ![Desktop View](./screenshots/desktop%20view.png) |
+
+*Tip: You can add screenshots of the project here.*
+
 
 *Tip: You can add screenshots of the project here.*
 
