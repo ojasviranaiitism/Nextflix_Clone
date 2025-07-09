@@ -12,14 +12,6 @@ This is a **responsive Netflix Clone** built using **HTML** and **CSS**. It is a
 
 ---
 
-## ❗ Limitations
-
-- ❌ No functional backend
-- ❌ No interactivity (no login, signup, or video streaming)
-- ➡️ This project focuses **only on UI and responsive design**.
-
----
-
 ## 🛠 Technologies Used
 
 - **HTML5**
@@ -43,6 +35,14 @@ This is a **responsive Netflix Clone** built using **HTML** and **CSS**. It is a
 - Building responsive web layouts
 - Using Flexbox and Media Queries effectively
 - Styling consistent and modern UI components
+
+---
+
+## ❗ Limitations
+
+- ❌ No functional backend
+- ❌ No interactivity (no login, signup, or video streaming)
+- ➡️ This project focuses **only on UI and responsive design**.
 
 ---
 
