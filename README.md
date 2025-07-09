@@ -1,5 +1,7 @@
 # 🎬 Netflix Clone
 
+./screenshots/desktop%20view.png
+
 This is a **responsive Netflix Clone** built using **HTML** and **CSS**. It is a **design-focused project** aimed at replicating the look and feel of the popular streaming platform. This was my **first project** while learning web development.
 
 ---
