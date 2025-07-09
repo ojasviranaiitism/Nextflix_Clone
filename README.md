@@ -53,7 +53,7 @@ This is a **responsive Netflix Clone** built using **HTML** and **CSS**. It is a
 
 ## 🌐 Live Demo
 
-👉 [View Live Project]((https://ojasviranaiitism.github.io/Nextflix_Clone/))
+👉 [View Live Project](https://ojasviranaiitism.github.io/Nextflix_Clone/)
 
 ---
 
