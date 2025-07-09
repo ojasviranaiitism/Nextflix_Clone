@@ -57,6 +57,20 @@ This is a **responsive Netflix Clone** built using **HTML** and **CSS**. It is a
 
 👉 [View Live Project](https://ojasviranaiitism.github.io/Nextflix_Clone/)
 
+## ⚠️ Quick Heads-Up!
+
+If the live project link opens up and shows something like **“Dangerous site ❌”**—don’t panic! 😄
+
+👉 Just click **“Details”** and then scroll down to the line that says:  
+_“Only visit **this unsafe site** if you're sure you understand the risks.”_  
+The words **this unsafe site** will be **underlined**—click that to continue.
+
+---
+
+No worries! The website might trigger this warning because it has an **input textbox**, which some browsers suspect could be part of phishing (spoiler: it’s not 😄).  
+
+✅ It’s completely safe—you're just checking out my project!  
+
 ---
 
 ## 📣 Feedback
