@@ -18,12 +18,18 @@ body{
 }
 
 .main .box {
-    height: 644px;
+    height: 750px;
     width: 100%;
     opacity: 0.69;
     position: absolute;
     top: 0;
     background-color: black;
+}
+
+@media screen and (max-width : 400px) {
+    .main .box {
+        height: 600px;
+    }
 }
 
 nav {
@@ -159,8 +165,8 @@ nav button {
 
 .third .secImg video {
     position: absolute;
-    top: 81px;
-    right: 101px;
+    top: 66px;
+    right: 105px;
     width: 350px;
 }
 
@@ -289,9 +295,19 @@ footer .questions {
 
 }
 
-
-
 @media screen and (max-width: 1300px) {
+    
+    .secImg video{
+        width : 222px;
+        top: 82px;
+        right: 43px;
+    }
+
+    .third .secImg video{
+        top: 51px;
+        right: 57px;
+        width: 197px;
+    }
 
     .footer {
         display: grid;
