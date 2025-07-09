@@ -316,6 +316,12 @@ footer .questions {
     }
 }
 
+@media screen and (width: 1180px) and (height: 820px) {
+    .hero {
+        height: calc(100% - 180px);
+    }
+}
+
 
 .footer a {
     font-size: 14px;
@@ -326,4 +332,85 @@ footer .questions {
     display: flex;
     flex-direction: column;
     gap: 23px;
+}
+
+/* 🌐 4K Screens (Width: 2561px and above) */
+@media screen and (min-width: 2561px) {
+  body {
+  }
+}
+
+/* 🌐 1440p Screens (Width: 1921px to 2560px) */
+@media screen and (min-width: 1921px) and (max-width: 2560px) {
+  body {
+  }
+}
+
+/* 🌐 1024p Screens (Width: 1367px to 1920px) */
+@media screen and (min-width: 1367px) and (max-width: 1920px) {
+  body {
+  }
+}
+
+/* 🌐 768p Screens (Width: 1025px to 1366px) */
+@media screen and (min-width: 1025px) and (max-width: 1366px) {
+  body {
+  }
+}
+
+/* 🌐 Tablet Landscape / Large Mobile (Width: 426px to 1024px) */
+@media screen and (min-width: 426px) and (max-width: 1024px) {
+  .main .box {
+    height: 500px;;
+  }
+}
+
+/* 🌐 Large Mobile (Width: 376px to 425px) */
+@media screen and (min-width: 376px) and (max-width: 426px) {
+  .main {
+    height: 85vh;
+  }
+
+  .main .box {
+    height: 600px;
+  }
+}
+
+/* 🌐 Medium Mobile (Width: 321px to 375px) */
+@media screen and (min-width: 321px) and (max-width: 376px) {
+    .hero {
+        height: calc(100% - 105px);
+    }
+
+    .main {
+        height: 95vh;
+    }
+
+    .main .box {
+        height: 654px;
+    }
+}
+
+/* 🌐 Small Mobile (Width: 0px to 320px) */
+@media screen and (max-width: 320px) {
+  .hero {
+    height: calc(100% - 103px);
+    padding: 0 14px;
+  }
+
+  .main{
+    height: 90vh;
+  }
+
+  .main .box{
+    height: 621px;
+  }
+}
+
+
+/*for 1440p monitor*/
+@media screen and (width: 2560px) and (height: 1440px) {
+    .main .box {
+        height: 1050px;
+    }
 }
